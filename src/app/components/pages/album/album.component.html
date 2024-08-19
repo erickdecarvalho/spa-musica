@@ -1,0 +1,15 @@
+<ul
+  class="grid justify-items-center grid-cols-4 justify-evenly container mx-auto gap-4 h-fit w-full"
+>
+  <li *ngFor="let album of albums" class="overflow-hidden rounded">
+    <a [routerLink]="[album.id]">
+      <img
+        [src]="album.coverUrl"
+        [alt]="album.title"
+        width="300"
+        class="hover:cursor-pointer hover:scale-105 transition-all duration-500"
+      />
+      {{ album.title }}
+    </a>
+  </li>
+</ul>

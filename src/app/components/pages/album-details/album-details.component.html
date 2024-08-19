@@ -1,0 +1,19 @@
+<div
+  *ngIf="album"
+  class="container mx-auto flex w-4/5 flex-col items-center gap-8"
+>
+  <div class="flex flex-col justify-center gap-6">
+    <div class="flex flex-col items-center">
+      <h1 class="text-4xl font-semibold uppercase tracking-wider">
+        {{ album.title }}
+      </h1>
+      <p class="text-start text-3xl text-gray-400">{{ album.releaseYear }}</p>
+    </div>
+    <p class="text-2xl font-thin tracking-wide">{{ album.description }}</p>
+  </div>
+
+  <div class="flex h-96 w-full items-center justify-between gap-8">
+    <img [src]="album.coverUrl" [alt]="album.title" class="h-96" />
+    <app-tracklist [tracks]="album.tracks"></app-tracklist>
+  </div>
+</div>

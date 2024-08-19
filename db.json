@@ -1,0 +1,933 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Infinite",
+      "description": "Infinite é o álbum de estreia do rapper Eminem, lançado em 12 de novembro de 1996. Com uma produção limitada e pouca promoção, o álbum não obteve grande sucesso comercial. No entanto, é um marco inicial na carreira de Eminem, mostrando suas habilidades líricas e estilo distintivo.",
+      "releaseYear": 1996,
+      "coverUrl": "https://www.eminem.com/files/2017/12/release_201712_a50e7afe8ffc014d1e45f8dc1371a0f8c758e5a2-300x300.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Infinite",
+          "duration": "03:53"
+        },
+        {
+          "number": 2,
+          "title": "W.E.G.O. (Interlude)",
+          "duration": "01:39"
+        },
+        {
+          "number": 3,
+          "title": "It's OK",
+          "duration": "04:18"
+        },
+        {
+          "number": 4,
+          "title": "313",
+          "duration": "03:36"
+        },
+        {
+          "number": 5,
+          "title": "87.9 The Loop Radio Station (Interlude)",
+          "duration": "01:31"
+        },
+        {
+          "number": 6,
+          "title": "The Sauce",
+          "duration": "03:43"
+        },
+        {
+          "number": 7,
+          "title": "Come On Everybody",
+          "duration": "03:40"
+        },
+        {
+          "number": 8,
+          "title": "Foul Mouth",
+          "duration": "03:49"
+        },
+        {
+          "number": 9,
+          "title": "Get You Mad",
+          "duration": "04:05"
+        },
+        {
+          "number": 10,
+          "title": "Jealousy Woes 2",
+          "duration": "04:01"
+        },
+        {
+          "number": 11,
+          "title": "Backstabber",
+          "duration": "04:35"
+        },
+        {
+          "number": 12,
+          "title": "Let’s Talk About It",
+          "duration": "04:14"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Slim Shady LP",
+      "description": "The Slim Shady LP é o segundo álbum de estúdio do rapper Eminem, lançado em 23 de fevereiro de 1999. O álbum marcou o grande avanço de Eminem na cena do rap, com produções de Dr. Dre e uma abordagem lírica provocativa que gerou controvérsia e reconhecimento.",
+      "releaseYear": 1999,
+      "coverUrl": "https://www.eminem.com/files/2022/02/release_202202_ab67616d0000b2731381f35efba6ac849684ea9e-300x300.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Public Service Announcement 2000",
+          "duration": "00:52"
+        },
+        {
+          "number": 2,
+          "title": "My Name Is",
+          "duration": "04:09"
+        },
+        {
+          "number": 3,
+          "title": "Stan",
+          "duration": "06:44"
+        },
+        {
+          "number": 4,
+          "title": "Steve Berman",
+          "duration": "00:39"
+        },
+        {
+          "number": 5,
+          "title": "The Way I Am",
+          "duration": "04:51"
+        },
+        {
+          "number": 6,
+          "title": "The Real Slim Shady",
+          "duration": "03:47"
+        },
+        {
+          "number": 7,
+          "title": "Remember Me?",
+          "duration": "03:48"
+        },
+        {
+          "number": 8,
+          "title": "Paul",
+          "duration": "00:56"
+        },
+        {
+          "number": 9,
+          "title": "Amityville",
+          "duration": "03:51"
+        },
+        {
+          "number": 10,
+          "title": "Bitch Please II",
+          "duration": "04:38"
+        },
+        {
+          "number": 11,
+          "title": "Kim",
+          "duration": "06:10"
+        },
+        {
+          "number": 12,
+          "title": "Under the Influence",
+          "duration": "03:50"
+        },
+        {
+          "number": 13,
+          "title": "Cum on Everybody",
+          "duration": "04:09"
+        },
+        {
+          "number": 14,
+          "title": "Marshall Mathers",
+          "duration": "04:04"
+        },
+        {
+          "number": 15,
+          "title": "Drug Ballad",
+          "duration": "04:00"
+        },
+        {
+          "number": 16,
+          "title": "Fight Music",
+          "duration": "03:41"
+        },
+        {
+          "number": 17,
+          "title": "The Kids",
+          "duration": "01:08"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Eminem Show",
+      "description": "The Eminem Show é o terceiro álbum de estúdio do rapper Eminem, lançado em 26 de maio de 2002. O álbum recebeu aclamação crítica e comercial, consolidando Eminem como um dos maiores nomes do rap com seus temas autobiográficos e suas letras provocativas.",
+      "releaseYear": 2002,
+      "coverUrl": "https://www.eminem.com/files/2017/12/release_201712_d6aebc8455b303340e188c20fd4f562a2ab980e0-300x297.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Curtains Up (Skit)",
+          "duration": "01:12"
+        },
+        {
+          "number": 2,
+          "title": "White America",
+          "duration": "05:24"
+        },
+        {
+          "number": 3,
+          "title": "Skits",
+          "duration": "01:16"
+        },
+        {
+          "number": 4,
+          "title": "Say Goodbye Hollywood",
+          "duration": "05:14"
+        },
+        {
+          "number": 5,
+          "title": "Drips",
+          "duration": "05:00"
+        },
+        {
+          "number": 6,
+          "title": "My Dad's Gone Crazy",
+          "duration": "04:28"
+        },
+        {
+          "number": 7,
+          "title": "Till I Collapse",
+          "duration": "04:58"
+        },
+        {
+          "number": 8,
+          "title": "The Kiss (Skit)",
+          "duration": "01:02"
+        },
+        {
+          "number": 9,
+          "title": "Say Goodbye Hollywood",
+          "duration": "04:14"
+        },
+        {
+          "number": 10,
+          "title": "Hailie's Song",
+          "duration": "05:20"
+        },
+        {
+          "number": 11,
+          "title": "Steve Berman (Skit)",
+          "duration": "01:19"
+        },
+        {
+          "number": 12,
+          "title": "Say Goodbye Hollywood",
+          "duration": "05:05"
+        },
+        {
+          "number": 13,
+          "title": "Superman",
+          "duration": "05:51"
+        },
+        {
+          "number": 14,
+          "title": "When the Music Stops",
+          "duration": "04:24"
+        },
+        {
+          "number": 15,
+          "title": "Say Goodbye Hollywood",
+          "duration": "04:51"
+        },
+        {
+          "number": 16,
+          "title": "Mockingbird",
+          "duration": "04:10"
+        },
+        {
+          "number": 17,
+          "title": "Crazy in Love",
+          "duration": "05:42"
+        },
+        {
+          "number": 18,
+          "title": "The Way I Am",
+          "duration": "04:47"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Encore",
+      "description": "Encore é o quarto álbum de estúdio do rapper Eminem, lançado em 12 de novembro de 2004. O álbum continuou a trajetória bem-sucedida de Eminem, apresentando uma combinação de hits comerciais e faixas introspectivas.",
+      "releaseYear": 2004,
+      "coverUrl": "https://www.eminem.com/files/2017/12/release_201712_3847820c1f559cb933a28bb960a56626e129ec05-300x300.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Curtains Up (Skit)",
+          "duration": "01:12"
+        },
+        {
+          "number": 2,
+          "title": "Evil Deeds",
+          "duration": "03:53"
+        },
+        {
+          "number": 3,
+          "title": "Never Enough",
+          "duration": "03:49"
+        },
+        {
+          "number": 4,
+          "title": "Yellow Brick Road",
+          "duration": "04:22"
+        },
+        {
+          "number": 5,
+          "title": "Like Toy Soldiers",
+          "duration": "04:56"
+        },
+        {
+          "number": 6,
+          "title": "Mosh",
+          "duration": "04:25"
+        },
+        {
+          "number": 7,
+          "title": "Puke",
+          "duration": "03:31"
+        },
+        {
+          "number": 8,
+          "title": "My 1st Single",
+          "duration": "04:12"
+        },
+        {
+          "number": 9,
+          "title": "Paul Rosenberg (Skit)",
+          "duration": "00:46"
+        },
+        {
+          "number": 10,
+          "title": "Ricky",
+          "duration": "03:20"
+        },
+        {
+          "number": 11,
+          "title": "Encore",
+          "duration": "04:35"
+        },
+        {
+          "number": 12,
+          "title": "Crazy in Love",
+          "duration": "05:12"
+        },
+        {
+          "number": 13,
+          "title": "Mockingbird",
+          "duration": "04:10"
+        },
+        {
+          "number": 14,
+          "title": "One Shot 2 Shot",
+          "duration": "04:25"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Relapse",
+      "description": "Relapse é o quinto álbum de estúdio do rapper Eminem, lançado em 19 de maio de 2009. Após uma pausa de cinco anos, o álbum marcou o retorno de Eminem com um som mais sombrio e introspectivo.",
+      "releaseYear": 2009,
+      "coverUrl": "https://www.eminem.com/files/2021/03/release_202103_ab67616d0000b2733d429223a0ace90c775c92ed-300x300.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Dr. West (Skit)",
+          "duration": "01:02"
+        },
+        {
+          "number": 2,
+          "title": "3 a.m.",
+          "duration": "04:15"
+        },
+        {
+          "number": 3,
+          "title": "My Mom",
+          "duration": "04:05"
+        },
+        {
+          "number": 4,
+          "title": "Insane",
+          "duration": "03:50"
+        },
+        {
+          "number": 5,
+          "title": "Bagpipes from Baghdad",
+          "duration": "04:47"
+        },
+        {
+          "number": 6,
+          "title": "Hello",
+          "duration": "04:05"
+        },
+        {
+          "number": 7,
+          "title": "Sunshine",
+          "duration": "04:32"
+        },
+        {
+          "number": 8,
+          "title": "We Made You",
+          "duration": "04:10"
+        },
+        {
+          "number": 9,
+          "title": "Old Times",
+          "duration": "04:30"
+        },
+        {
+          "number": 10,
+          "title": "Paul Rosenberg (Skit)",
+          "duration": "00:58"
+        },
+        {
+          "number": 11,
+          "title": "Stay Wide Awake",
+          "duration": "03:51"
+        },
+        {
+          "number": 12,
+          "title": "Tony's Story",
+          "duration": "02:56"
+        },
+        {
+          "number": 13,
+          "title": "Underdog",
+          "duration": "03:43"
+        },
+        {
+          "number": 14,
+          "title": "Final Showdown",
+          "duration": "04:05"
+        },
+        {
+          "number": 15,
+          "title": "Beautiful",
+          "duration": "05:04"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Recovery",
+      "description": "Recovery é o sexto álbum de estúdio do rapper Eminem, lançado em 18 de junho de 2010. O álbum foi um retorno triunfante após 'Relapse', com temas mais positivos e uma produção mais voltada para o rap mainstream.",
+      "releaseYear": 2010,
+      "coverUrl": "https://www.eminem.com/files/2017/12/release_201712_855d368f5b71cf3d7429486df776cc415f5b13e1-300x300.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Cold Wind Blows",
+          "duration": "04:46"
+        },
+        {
+          "number": 2,
+          "title": "Talkin' 2 Myself",
+          "duration": "04:55"
+        },
+        {
+          "number": 3,
+          "title": "On Fire",
+          "duration": "03:21"
+        },
+        {
+          "number": 4,
+          "title": "Won't Back Down",
+          "duration": "03:43"
+        },
+        {
+          "number": 5,
+          "title": "W.T.P.",
+          "duration": "03:45"
+        },
+        {
+          "number": 6,
+          "title": "Going Through Changes",
+          "duration": "04:28"
+        },
+        {
+          "number": 7,
+          "title": "Not Afraid",
+          "duration": "03:50"
+        },
+        {
+          "number": 8,
+          "title": "Seduction",
+          "duration": "03:55"
+        },
+        {
+          "number": 9,
+          "title": "No Love",
+          "duration": "04:50"
+        },
+        {
+          "number": 10,
+          "title": "Space Bound",
+          "duration": "04:40"
+        },
+        {
+          "number": 11,
+          "title": "Cinderella Man",
+          "duration": "04:39"
+        },
+        {
+          "number": 12,
+          "title": "25 to Life",
+          "duration": "04:07"
+        },
+        {
+          "number": 13,
+          "title": "So Bad",
+          "duration": "03:48"
+        },
+        {
+          "number": 14,
+          "title": "Almost Famous",
+          "duration": "04:01"
+        },
+        {
+          "number": 15,
+          "title": "Love the Way You Lie",
+          "duration": "04:23"
+        },
+        {
+          "number": 16,
+          "title": "You're Never Over",
+          "duration": "04:57"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The Marshall Mathers LP 2",
+      "description": "The Marshall Mathers LP 2 é o sétimo álbum de estúdio de Eminem, lançado em 5 de novembro de 2013. O álbum é uma sequência do aclamado 'The Marshall Mathers LP' e continua a explorar temas pessoais e sociais com uma produção renovada.",
+      "releaseYear": 2013,
+      "coverUrl": "https://www.eminem.com/files/2021/03/release_202103_ab67616d0000b2737b0408ba04049d1048933557-300x300.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Bad Guy",
+          "duration": "06:14"
+        },
+        {
+          "number": 2,
+          "title": "Parking Lot (Skit)",
+          "duration": "01:13"
+        },
+        {
+          "number": 3,
+          "title": "Rhyme or Reason",
+          "duration": "05:03"
+        },
+        {
+          "number": 4,
+          "title": "So Much Better",
+          "duration": "03:59"
+        },
+        {
+          "number": 5,
+          "title": "Survival",
+          "duration": "03:52"
+        },
+        {
+          "number": 6,
+          "title": "Legacy",
+          "duration": "04:10"
+        },
+        {
+          "number": 7,
+          "title": "Asshole",
+          "duration": "03:59"
+        },
+        {
+          "number": 8,
+          "title": "Berzerk",
+          "duration": "03:50"
+        },
+        {
+          "number": 9,
+          "title": "Rap God",
+          "duration": "06:03"
+        },
+        {
+          "number": 10,
+          "title": "Brainless",
+          "duration": "03:52"
+        },
+        {
+          "number": 11,
+          "title": "Strong Enough",
+          "duration": "03:48"
+        },
+        {
+          "number": 12,
+          "title": "The Monster",
+          "duration": "04:10"
+        },
+        {
+          "number": 13,
+          "title": "So Far...",
+          "duration": "03:41"
+        },
+        {
+          "number": 14,
+          "title": "Love Game",
+          "duration": "04:33"
+        },
+        {
+          "number": 15,
+          "title": "Headlights",
+          "duration": "04:05"
+        },
+        {
+          "number": 16,
+          "title": "Evil Twin",
+          "duration": "03:56"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Revival",
+      "description": "Revival é o oitavo álbum de estúdio de Eminem, lançado em 15 de dezembro de 2017. O álbum aborda temas políticos e sociais, com uma produção que mistura elementos tradicionais e modernos do rap.",
+      "releaseYear": 2017,
+      "coverUrl": "https://www.eminem.com/files/2017/12/release_201712_cfbf1b48be71c873fa039edea69ca206b832f41b_0-300x300.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Revival (Intro)",
+          "duration": "01:07"
+        },
+        {
+          "number": 2,
+          "title": "Walk on Water",
+          "duration": "04:38"
+        },
+        {
+          "number": 3,
+          "title": "Believe",
+          "duration": "04:32"
+        },
+        {
+          "number": 4,
+          "title": "Chloraseptic",
+          "duration": "03:43"
+        },
+        {
+          "number": 5,
+          "title": "Untouchable",
+          "duration": "04:22"
+        },
+        {
+          "number": 6,
+          "title": "Framed",
+          "duration": "04:45"
+        },
+        {
+          "number": 7,
+          "title": "Nowhere Fast",
+          "duration": "03:39"
+        },
+        {
+          "number": 8,
+          "title": "Heat",
+          "duration": "03:56"
+        },
+        {
+          "number": 9,
+          "title": "Offended",
+          "duration": "04:30"
+        },
+        {
+          "number": 10,
+          "title": "Bad Husband",
+          "duration": "04:15"
+        },
+        {
+          "number": 11,
+          "title": "Constantly Hating",
+          "duration": "03:31"
+        },
+        {
+          "number": 12,
+          "title": "Stepping Stone",
+          "duration": "03:57"
+        },
+        {
+          "number": 13,
+          "title": "Like Home",
+          "duration": "03:51"
+        },
+        {
+          "number": 14,
+          "title": "Arose",
+          "duration": "04:48"
+        },
+        {
+          "number": 15,
+          "title": "Clint Eastwood (Skit)",
+          "duration": "00:51"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Music to Be Murdered By",
+      "description": "Music to Be Murdered By é o nono álbum de estúdio de Eminem, lançado em 17 de janeiro de 2020. O álbum explora uma variedade de temas e continua o estilo lírico agressivo e introspectivo de Eminem.",
+      "releaseYear": 2020,
+      "coverUrl": "https://www.eminem.com/files/2020/01/release_202001_bda0a61f877468d449e6420198a7497fca59c6ae-300x300.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Premonition (Intro)",
+          "duration": "01:04"
+        },
+        {
+          "number": 2,
+          "title": "Unaccommodating",
+          "duration": "03:58"
+        },
+        {
+          "number": 3,
+          "title": "You Gon' Learn",
+          "duration": "03:35"
+        },
+        {
+          "number": 4,
+          "title": "Alfred’s Theme",
+          "duration": "03:50"
+        },
+        {
+          "number": 5,
+          "title": "Those Kinda Nights",
+          "duration": "03:58"
+        },
+        {
+          "number": 6,
+          "title": "In Too Deep",
+          "duration": "03:21"
+        },
+        {
+          "number": 7,
+          "title": "Godzilla",
+          "duration": "03:59"
+        },
+        {
+          "number": 8,
+          "title": "Darkness",
+          "duration": "03:16"
+        },
+        {
+          "number": 9,
+          "title": "Leaving Heaven",
+          "duration": "04:31"
+        },
+        {
+          "number": 10,
+          "title": "No Regrets",
+          "duration": "03:47"
+        },
+        {
+          "number": 11,
+          "title": "I Will",
+          "duration": "03:24"
+        },
+        {
+          "number": 12,
+          "title": "The Re-Up",
+          "duration": "04:05"
+        },
+        {
+          "number": 13,
+          "title": "Stepdad",
+          "duration": "03:38"
+        },
+        {
+          "number": 14,
+          "title": "Marsh",
+          "duration": "03:50"
+        },
+        {
+          "number": 15,
+          "title": "Little Engine",
+          "duration": "03:12"
+        },
+        {
+          "number": 16,
+          "title": "Lock It Up",
+          "duration": "03:51"
+        },
+        {
+          "number": 17,
+          "title": "Farewell",
+          "duration": "03:30"
+        },
+        {
+          "number": 18,
+          "title": "No Regrets",
+          "duration": "03:29"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Curtain Call 2",
+      "description": "",
+      "releaseYear": 2022,
+      "coverUrl": "https://www.eminem.com/files/2022/08/release_202208_ab67616d0000b27375a2c90eca545e6b0557897c-300x300.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Curtains Up",
+          "duration": "01:08"
+        },
+        {
+          "number": 2,
+          "title": "Goodbye",
+          "duration": "03:45"
+        },
+        {
+          "number": 3,
+          "title": "Just Don't Give a F***",
+          "duration": "03:47"
+        },
+        {
+          "number": 4,
+          "title": "We Made You",
+          "duration": "04:20"
+        },
+        {
+          "number": 5,
+          "title": "Beautiful",
+          "duration": "05:00"
+        },
+        {
+          "number": 6,
+          "title": "Space Bound",
+          "duration": "04:23"
+        },
+        {
+          "number": 7,
+          "title": "Love the Way You Lie",
+          "duration": "04:29"
+        },
+        {
+          "number": 8,
+          "title": "Mockingbird",
+          "duration": "04:00"
+        },
+        {
+          "number": 9,
+          "title": "Not Afraid",
+          "duration": "03:50"
+        },
+        {
+          "number": 10,
+          "title": "Rap God",
+          "duration": "06:03"
+        },
+        {
+          "number": 11,
+          "title": "The Monster",
+          "duration": "04:10"
+        },
+        {
+          "number": 12,
+          "title": "Love Game",
+          "duration": "04:33"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Kamikaze",
+      "description": "O décimo álbum de estúdio de Eminem, lançado em 31 de agosto de 2018. Este álbum foi uma resposta crítica aos comentários feitos sobre seu trabalho anterior, apresentando um tom mais agressivo e uma série de batalhas líricas.",
+      "releaseYear": 2018,
+      "coverUrl": "https://www.eminem.com/files/2018/09/release_201809_c932b53e6f13a45f32bc357303c56eb52ecc28fb-300x300.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "The Ringer",
+          "duration": "3:57"
+        },
+        {
+          "number": 2,
+          "title": "Greatest",
+          "duration": "3:45"
+        },
+        {
+          "number": 3,
+          "title": "Lucky You",
+          "duration": "3:41"
+        },
+        {
+          "number": 4,
+          "title": "Paul Rosenberg (Skit)",
+          "duration": "0:17"
+        },
+        {
+          "number": 5,
+          "title": "Normal",
+          "duration": "3:04"
+        },
+        {
+          "number": 6,
+          "title": "Em Calls Paul (Skit)",
+          "duration": "0:17"
+        },
+        {
+          "number": 7,
+          "title": "Stepping Stone",
+          "duration": "3:54"
+        },
+        {
+          "number": 8,
+          "title": "Not Alike",
+          "duration": "3:50"
+        },
+        {
+          "number": 9,
+          "title": "Kamikaze",
+          "duration": "2:58"
+        },
+        {
+          "number": 10,
+          "title": "Fall",
+          "duration": "3:00"
+        },
+        {
+          "number": 11,
+          "title": "Nice Guy",
+          "duration": "2:54"
+        },
+        {
+          "number": 12,
+          "title": "Good Guy",
+          "duration": "3:21"
+        },
+        {
+          "number": 13,
+          "title": "Venom",
+          "duration": "4:03"
+        }
+      ]
+    }
+  ]
+}
